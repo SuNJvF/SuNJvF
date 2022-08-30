@@ -170,79 +170,12 @@
 <br /><br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs-blue)
-
-**Eu sou noturno 🦉** 
-
-```text
-🌞 Manhã      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
-🌆 Tarde      144 commits    ██████░░░░░░░░░░░░░░░░░░░   27.17% 
-🌃 Noite      190 commits    █████████░░░░░░░░░░░░░░░░   35.85% 
-🌙 Madrugada  125 commits    ██████░░░░░░░░░░░░░░░░░░░   23.58%
-
-```
-📅 **Sou mais produtivo em sábado** 
-
-```text
-Segunda-Feira64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-Terça-Feira  50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-Quarta-Feira 73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Quinta-Feira 83 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-Sexta-Feira  68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-sábado       104 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62% 
-domingo      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.6%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-⌚︎ Fuso horário: America/Campo_Grande
-
-💬 Linguagens de programação: 
-sh                       6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   30.33% 
-Java                     5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72% 
-JSON                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
-CSS                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-HTML                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.16%
-
-🔥 Editores: 
-VS Code                  15 hrs 57 mins      █████████████████░░░░░░░░   69.67% 
-Zsh                      6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   30.33%
-
-🐱‍💻 Projetos: 
-sigaa-san                8 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   38.65% 
-IFC                      8 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.21% 
-DIEGOHORVATTI            2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-C                        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
-c_oo                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
-
-💻 Sistema operacional: 
-Linux                    22 hrs 54 mins      █████████████████████████   100.0%
-
-```
-
-**Eu geralmente programo em Shell** 
-
-```text
-Shell                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
-
-```
-
-
-
- Last Updated on 30/08/2022 02:31:54 UTC
 <!--END_SECTION:waka-->
   
   
 <div align="center" width="100%">
   <a href="#">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SuNJvF&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
     <img src="https://github.com/SuNJvF/SuNJvF/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
   </a>
 </div>
@@ -288,7 +221,7 @@ C                        3 repos             ██░░░░░░░░░�
   <a href="https://github.com/SuNJvF">
     <img src="https://img.shields.io/badge/SuNJvF-©SuNJvF-whit">
   </a>
-  <a href="https://wakatime.com/@SuNJvF"><img src="https://wakatime.com/badge/user/945c9950-72ac-42c3-8a8b-8d9215d66eef.svg?style=social" alt="Total time coded Diego Horvatti" /></a>
+  <a href="https://wakatime.com/@SuNJvF"><img src="https://wakatime.com/badge/user/945c9950-72ac-42c3-8a8b-8d9215d66eef.svg?style=social" alt="Total time coded SuNJvF" /></a>
 
   <!-- 
   <a href="https://badges.pufler.dev">
