@@ -243,7 +243,7 @@ C                        3 repos             ██░░░░░░░░░�
 <div align="center" width="100%">
   <a href="#">
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
-    <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
+    <img src="https://github.com/SuNJvF/SuNJvF/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
   </a>
 </div>
   
@@ -268,7 +268,7 @@ C                        3 repos             ██░░░░░░░░░�
 <tr>
   <h3>Dowload CV (curriculo)</h3>
   <td>
-    <a href="https://github.com/DIEGOHORVATTI/IFC" >
+    <a href="https://github.com/SuNJvF/IFC" >
     <img width="90%" src="./public/logoIFC.png" />
   </a>
   </td>
@@ -285,14 +285,14 @@ C                        3 repos             ██░░░░░░░░░�
 
 <img align="center" width="40%" src="./public/img/ciencia.gif" alt="Ciência da computação art pixel"/>
 <div align="right">
-  <a href="https://github.com/DIEGOHORVATTI">
-    <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
+  <a href="https://github.com/SuNJvF">
+    <img src="https://img.shields.io/badge/SuNJvF-©SuNJvF-whit">
   </a>
-  <a href="https://wakatime.com/@Div"><img src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg?style=social" alt="Total time coded Diego Horvatti" /></a>
+  <a href="https://wakatime.com/@SuNJvF"><img src="https://wakatime.com/badge/user/945c9950-72ac-42c3-8a8b-8d9215d66eef.svg?style=social" alt="Total time coded Diego Horvatti" /></a>
 
   <!-- 
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge Diego Horvatti" />
+    <img src="https://badges.pufler.dev/visits/SuNJvF/SuNJvF" alt="Visitors badge Diego Horvatti" />
   </a> 
   -->
 </div>
