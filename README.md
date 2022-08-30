@@ -5,14 +5,14 @@
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI"
+        src="https://github-readme-stats.vercel.app/api?username=SuNJvF&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=SuNJvF"
         alt="DIEGOHORVATTI Github Stats"
       />
     </td>
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"
+        src="https://github-readme-streak-stats.herokuapp.com?user=SuNJvF&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"
       />
     </td>
   </tr>
@@ -26,7 +26,7 @@
         width="100%"
         border="0"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=ε(´｡•᎑•`)っ%20💕Linguagens%20mais%20usadas"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuNJvF&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=ε(´｡•᎑•`)っ%20💕Linguagens%20mais%20usadas"
         alt="Diego Horvatti"
       />
     </td>
@@ -40,12 +40,12 @@
   <tr>
     <td width="50%" align="center" >
       <p><h4><strike>Escreva algo bom no meu livro de visitas</strike> ↴</h4></p>
-    <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
+    <a href="https://github.com/SuNJvF/SuNJvF/issues" target="blank">
       <img
         align="center"
          width="80%"
         src="./public/img/profile/killnode"
-        alt="DIEGOHORVATTI Github Stats"
+        alt="SuNJvF Github Stats"
       />
      </a>
     </td>
