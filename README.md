@@ -46,14 +46,3 @@
   </div>
 </div>
 <br /><br /><br />
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
-  
-<div align="center" width="100%">
-  <a href="#">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SuNJvF&hide_title=true&hide_border=true&bg_color=0d1117&color=8000ff&line=8000ff&point=fff" />
-    <img src="https://github.com/SuNJvF/SuNJvF/blob/output/github-contribution-grid-snake.svg" alt="snake - SuNJvF" />
-  </a>
-</div>
