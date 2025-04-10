@@ -57,21 +57,7 @@
     <img src="https://github.com/SuNJvF/SuNJvF/blob/output/github-contribution-grid-snake.svg" alt="snake - SuNJvF" />
   </a>
 </div>
-  
-<div align="center">
-  <tr>
-    <td>
-      <h4>Veja sobre mim no seu terminal!</h4>
-    </td>
-    <td>
-      <pre>npx diegohorvatti</pre>
-    </td>
-  </tr>
-  <br>
-  <a href="https://www.npmjs.com/package/diegohorvatti">
-    <img src="./public/img/profile/npm_div" />
-  </a>
-<div>
+
 <br/>
 <hr>
 
