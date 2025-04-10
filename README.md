@@ -57,39 +57,3 @@
     <img src="https://github.com/SuNJvF/SuNJvF/blob/output/github-contribution-grid-snake.svg" alt="snake - SuNJvF" />
   </a>
 </div>
-
-<br/>
-<hr>
-
-<table width="100%" border="0">
-<tr>
-  <h3>Dowload CV (curriculo)</h3>
-  <td>
-    <a href="https://github.com/SuNJvF/IFC" >
-    <img width="90%" src="./public/logoIFC.png" />
-  </a>
-  </td>
-  <td>
-    <a href="./public/docs/CV.pdf" >
-      <br />
-      <img  width="100%" src="./public/img/profile/dowload_cv.png" />
-  </a>
-  </td>
-</tr>
-</table>
-<br />
-<hr/>
-
-<img align="center" width="40%" src="./public/img/ciencia.gif" alt="Ciência da computação art pixel"/>
-<div align="right">
-  <a href="https://github.com/SuNJvF">
-    <img src="https://img.shields.io/badge/SuNJvF-©SuNJvF-whit">
-  </a>
-  <a href="https://wakatime.com/@SuNJvF"><img src="https://wakatime.com/badge/user/945c9950-72ac-42c3-8a8b-8d9215d66eef.svg?style=social" alt="Total time coded SuNJvF" /></a>
-
-  <!-- 
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/SuNJvF/SuNJvF" alt="Visitors badge Diego Horvatti" />
-  </a> 
-  -->
-</div>
