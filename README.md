@@ -1,4 +1,3 @@
-<a href="https://discord.gg/VfVB9CP3"><img align="center" src="./public/img/profile/banner.png" /></a>
 
 <table width="100%" border="0">
   <tr>
