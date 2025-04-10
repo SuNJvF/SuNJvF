@@ -27,11 +27,11 @@
         border="0"
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuNJvF&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=8000ff&icon_color=8000ff&text_color=D3D3D3&bg_color=0d1117&custom_title=ε(´｡•᎑•`)っ%20💕Linguagens%20mais%20usadas"
-        alt="Diego Horvatti"
+        alt="João Vitor Francisco"
       />
     </td>
     <td>
-      <img width="100%" border="0" align="center" src="./public/img/profile/div.gif" alt="Diego Horvatti" />
+      <img width="100%" border="0" align="center" src="./public/img/profile/div.gif" alt="João Vitor Francisco" />
     </td>
   </tr>
 </table>
@@ -127,7 +127,7 @@
   <tr>
     <td>
         <img width="40" src="./public/img/emots/jotaro_4" />
-        Atualmente estou estudando c, c++, python+arduino, python e c++ com qt5, sql, java e .lua
+        Atualmente estou estudando Html, Python, Css e javascript.
       </p>
     </td>
   </tr>
@@ -139,8 +139,8 @@
   <p>
   <b>typedef</b> <i>struct</i>{<br/>
   &nbsp;&nbsp;&nbsp;<b>char</b> Nome = "João Vitor Francisco"<br/>
-  &nbsp;&nbsp;&nbsp;<b>int</b> Idade = 18<br/>
-  &nbsp;&nbsp;&nbsp;<b>char</b> Apelido = "Jão"<br/>
+  &nbsp;&nbsp;&nbsp;<b>int</b> Idade = 21<br/>
+  &nbsp;&nbsp;&nbsp;<b>char</b> Apelido = "Hall"<br/>
   &nbsp;&nbsp;&nbsp;<b>char</b> Hobbies = "Games, Animes, Séries"<br/>
   }sEstudant;<br/>
   </p>
